@@ -32,7 +32,7 @@ Me encanta aprender nuevas herramientas y trabajar en proyectos que mezclen **an
 
 - 💼 **Análisis financiero y optimización**  
   Dashboard interactivo en **Tableau** para visualización de métricas clave.  
-
+[![Tableau](https://img.shields.io/badge/Ver%20Dashboard-Tableau-orange?logo=tableau)](https://public.tableau.com/views/TuDashboardLink)
 ---
 
 ## 🌈 Conéctate conmigo
