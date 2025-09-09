@@ -22,7 +22,6 @@ Me encanta aprender nuevas herramientas y trabajar en proyectos que mezclen **an
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 🔧 **Data Science:** Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn.  
-☁️ **Cloud:** Azure (en aprendizaje).
 
 ---
 
