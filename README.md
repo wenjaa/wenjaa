@@ -10,7 +10,7 @@ Me encanta aprender nuevas herramientas y trabajar en proyectos que mezclen **an
 - 🎯 Enfocada en **optimización y análisis financiero**.  
 - 📊 Experta en **Python**, **SQL**, **Tableau** y **Google Colab**.  
 - 🧠 Interesada en **modelos predictivos** y segmentación de clientes.  
-- 🌱 Siempre en constante aprendizaj.
+- 🌱 Siempre en constante aprendizaje.
 
 ---
 
